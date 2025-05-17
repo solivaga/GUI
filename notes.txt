@@ -1,0 +1,17 @@
+Pertemuan 1:
+Bagian susahnya tidak terlalu terasa karena materi tentang thread dan multi-thread disampaikan dengan jelas. Bagian gampangnya terletak pada pemahaman konsep dasar karena dibimbing langkah demi langkah.
+
+Pertemuan 2:
+Bagian susahnya hampir tidak ada karena konsep API dan JSON dijelaskan dengan contoh nyata. Bagian gampangnya ada pada proses menyelesaikan tugas karena panduan yang diberikan sangat membantu.
+
+Pertemuan 3:
+Bagian susahnya tidak terlalu muncul karena pengenalan framework dilakukan secara bertahap. Bagian gampangnya adalah memahami fungsi framework berkat penjelasan yang runtut.
+
+Pertemuan 4:
+Bagian susahnya bisa dibilang tidak ada karena struktur Flask cukup sederhana untuk dipahami. Bagian gampangnya terletak pada praktik langsung yang dibimbing dengan baik.
+
+Pertemuan 5:
+Bagian susahnya tidak dirasakan karena pembuatan API Endpoint dilakukan secara bertahap. Bagian gampangnya adalah memahami alur request dan response karena dibantu dengan contoh yang relevan.
+
+Pertemuan 6:
+Bagian susahnya tidak terlalu muncul meskipun PyQt cukup kompleks, karena materi disampaikan dengan baik. Bagian gampangnya adalah saat mencoba langsung komponen PyQt karena ada arahan yang jelas.
